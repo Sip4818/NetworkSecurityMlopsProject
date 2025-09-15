@@ -1,0 +1,5 @@
+ [ 2025-09-13 11:30:55,650 ] 13 root - INFO - Initiating Data Ingestion
+ [ 2025-09-13 11:30:59,725 ] 56 root - INFO - Performed train test split.
+ [ 2025-09-13 11:30:59,818 ] 59 root - INFO - Exporting train and test file path
+ [ 2025-09-13 11:30:59,957 ] 62 root - INFO - Exported train and test file path
+ [ 2025-09-13 11:30:59,959 ] 19 root - INFO - Data Ingestion Completed
