@@ -45,7 +45,7 @@ Below are visual representations of the end-to-end workflow:
 ![Model Trainer](docs/model_trainer.png)
 
 ### 🚀 Model Deployment
-![Model Deployment](images/model_deployment.png)
+![Model Deployment](docs/model_deployment.png)
 
 
 ---
