@@ -12,7 +12,7 @@ The goal is to classify URLs as *phishing* or *legitimate* through a fully autom
 - **CI/CD pipeline** using **GitHub Actions**
 - **Containerized deployment** with **Docker**
 - **Deployed to AWS ECS**, and **run on EC2 instance** for scalable serving
-- **FastAPI**-based REST API for prediction
+- **FastAPI**-based REST API for prediction.
 
 ---
 
